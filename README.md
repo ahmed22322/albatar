@@ -52,11 +52,11 @@ sudo apt-get update && git clone https://github.com/ahmed22322/albatar.git && cd
 • وفتح تورمنل ودز  ↙️:- 
 
 ```
-cd botlua && ./launch.sh 
+cd albatar && ./launch.sh 
 ```
 او  اذا كنته تستخدم vps قم بوضع 
 ```
-cd botlua && screen -s keko ./launch.sh 
+cd albatar && screen -s ahmed22322 ./launch.sh 
 ```
 ֆ • • • • • • • • • • • • • ֆ
 
@@ -78,7 +78,7 @@ cd botlua && screen -s keko ./launch.sh
 *ֆ • • • • • • • • • • • • • ֆ*
 
 
-• BY : https://telegram.me/ikeko                                  
+• BY : https://telegram.me/ALAM223                                  
 
 
-• MY CH : https://telegram.me/BOTLUA
+• MY CH : https://telegram.me/ALAM223
